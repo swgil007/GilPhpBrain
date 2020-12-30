@@ -1,2 +1,2 @@
 # GilPhpBrain
-PHP Study 저장소
+PHP Code Study Repository
