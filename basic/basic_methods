@@ -1,0 +1,69 @@
+is_array($arrCurlOption)
+iconv( $this->charset, 'UTF-8//IGNORE', $this->html );
+mb_convert_encoding( $this->html, "UTF-8", $this->charset );
+strtoupper(trim($arrTmp[1]));
+array_unique($aTmp[0]);
+preg_replace('!^&#[0]*!','',$value);
+str_replace(';','',$sNumber);
+chr(10);
+hexdec($sNumber)
+array_key_exists( $number, $aUserHtmlNum )
+fopen( $fileName, 'a' );
+fwrite( $fp, $text );
+fclose( $fp );
+explode(" ", microtime());
+date($format, mktime(0, 0, 0, date("m")+$integerField ,date("d"), date("Y")));
+strtotime($arrTempDate[$i])
+date('Y-m-d', time());
+$tempDate = new DateTime($date);
+$tempDate->sub(new DateInterval('P1D'));
+sort($tempResult);
+file_get_contents($api_url);
+urldecode($url)
+substr_count($string,"?")
+strpos($string, "?");
+strlen($string);
+substr_count($begin_string, "../");
+parse_url($sBaseUrl);
+mktime( $hour, $minute, $second, $month, $day, $year )
+in_array($link,$arrFilter)
+array_slice($dbFilter['link'], 1);
+asort($sortable_array);
+arsort($sortable_array);
+isset($arrResult['LinkInfo'])
+unset($arrResult['LinkInfo']);
+realpath(__FILE__);
+php_uname('n')
+mb_internal_encoding( 'UTF-8' );
+define("LOGIN_OPTION", $this->arrDefaultSet['CRAWLER_OPTION'][0]);
+set_error_handler( array( $this, 'writeErrorLog' ) );
+pathinfo($_SERVER['PHP_SELF']);
+implode( ', ', $arrUpdateQuery )
+is_numeric($dateString)
+is_dir($tempLocation)
+mkdir($tempLocation, 0777);
+exec($cmd);
+unlink($tempLocation."/".$tempImgFileName);
+count($aAttribute[0]);
+array_merge(array(abdab), $options);
+ord($value[$i]);
+unpack('N', str_repeat(chr(0), 4 - strlen($utf8Char)) . $utf8Char);
+call_user_func_array('pack', $bytes);
+create_function('$all, $code', 'return hexdec($code);')
+function_exists('mb_convert_encoding')
+pack('N', $codePoint);
+is_callable($handler['callback'])
+dirname(__FILE__)
+str_ireplace( $arr_lib[$i]['search'], " ".$arr_lib[$i]['replace']." ", $text );
+fread($handle, filesize($file_name));
+mb_internal_encoding( 'UTF-8' );
+rand(1, $this->arrDefaultSet['CRAWLER']['sleep']);
+sleep( $delayTime );
+print_r($this->arrAllPartsHeader);
+intval($this->arrDefaultSet['CRAWLER']['sb_limit_date'])
+array_keys($arr_data[$this->temp_listNumber]);
+socket_create(AF_INET, SOCK_STREAM, 0);
+socket_connect($socket, $host, $port);
+socket_write($socket, $message, strlen($message)) or die("Could not send data to server\n");
+socket_read($socket, 1024)
+socket_last_error()
