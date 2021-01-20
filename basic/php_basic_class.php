@@ -31,3 +31,4 @@ class Gil{
     function getBurningUp(callable $call){ return $call(); }
 } 
 ?>
+
