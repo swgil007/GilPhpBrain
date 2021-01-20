@@ -10,7 +10,6 @@ while($work_day <= 30){
 foreach($colleagues as $colleague) echo $colleague;
 ?>
 
-
 <html>
    <head>
       <title>php</title>
