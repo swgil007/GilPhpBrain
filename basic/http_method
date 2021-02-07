@@ -1,3 +1,4 @@
 # HTTP request method 확인하기
 
 $_SERVER["REQUEST_METHOD"]
+
