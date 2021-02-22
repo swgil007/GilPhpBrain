@@ -18,3 +18,4 @@ foreach($colleagues as $colleague) echo $colleague;
       <?echo “echoTest”; ?>
    </body>
 </html>
+
